@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pyra-castellum/pyra-castellum/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/pyra-castellum/pyra-castellum/"}
 ---
 
 

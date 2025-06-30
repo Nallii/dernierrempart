@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/la-flamme-de-l-humanite/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/la-flamme-de-l-humanite/"}
 ---
 
 

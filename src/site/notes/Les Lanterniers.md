@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-lanterniers/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/les-lanterniers/"}
 ---
 
 

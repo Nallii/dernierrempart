@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l-abysse/temoignages-de-rencontres/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/l-abysse/temoignages-de-rencontres/"}
 ---
 
 

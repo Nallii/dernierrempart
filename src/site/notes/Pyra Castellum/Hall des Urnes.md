@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pyra-castellum/hall-des-urnes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/pyra-castellum/hall-des-urnes/"}
 ---
 
 

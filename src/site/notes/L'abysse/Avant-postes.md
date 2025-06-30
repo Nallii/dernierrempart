@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l-abysse/avant-postes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/l-abysse/avant-postes/"}
 ---
 
 
