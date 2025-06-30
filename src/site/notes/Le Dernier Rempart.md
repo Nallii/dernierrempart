@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/le-dernier-rempart/","tags":["gardenEntry"]}
 ---
 
-
+![8b50e511f0d05b883d3d0e876afda939.jpg](/img/user/8b50e511f0d05b883d3d0e876afda939.jpg)
 Le monde a cessé de vivre depuis longtemps. Derrière les murs de [[Pyra Castellum/Pyra Castellum\|Pyra Castellum]], aussi anciens que le temps lui-même, les derniers humains s’accrochent à une existence rongée par l’oubli et la peur.
 
 Au-delà, il n’y a que silence — un désert brumeux, creusé par le fléau qui a dévoré toute lumière. Les ruines hurlent des secrets perdus, et les ombres rampent là où le regard refuse de se poser. Ceux qui s’y aventurent reviennent rarement.
